@@ -9,7 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=F7729D&center=true&vCenter=true&width=490&lines=Building+Awesome+Websites;Designing+Great+User+Experiences;Developing+Smart+AI;Boosting+Online+Visibility;Always+Learning+New+Tech!" alt="Skills Typing Effect">
   </p>
 </div>
----
 
 ### About Me 🚀
 
@@ -32,7 +31,7 @@ My focus is always on solving real-world challenges with technology. I make sure
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200px" hight="200px" alt="Cool Animation" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" hight="400px" alt="Cool Animation" />
 </p>
 
 ### My Digital Toolkit 🛠️
