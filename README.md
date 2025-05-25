@@ -8,14 +8,11 @@
 </div>
 
 ---
-### My Awesome Section
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100px" alt="Cool Animation" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200px" hight="200px" alt="Cool Animation" />
 </p>
-
-This is some text explaining my awesome section.
----
 
 ---
 
