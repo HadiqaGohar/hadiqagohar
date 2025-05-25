@@ -25,21 +25,12 @@ My focus is always on solving real-world challenges with technology. I make sure
 ### My Key Skills & What I Offer ✨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN8Xc9R813XwN3q9L/giphy.gif" width="60px" alt="Web Development Icon" style="vertical-align:middle; margin-right: 10px;">
-  <b>Modern Web Development:</b> I build dynamic, responsive, and high-performance websites using popular tools like ReactJS and NextJS.
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QxNzFjMWYxZDU0MDIyM2Q4MzY2YmRkZjg2YmQ5ZDI5ZGUxZTUwNzQzODQ1OGYxNzY1NDZkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7btLqXjE5iN6F5qg/giphy.gif" width="60px" alt="UI/UX Icon" style="vertical-align:middle; margin-right: 10px;">
-  <b>Intuitive UI/UX Design:</b> I create beautiful and easy-to-use interfaces that make digital products a pleasure to use.
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ4YjYyMjA2ZjI2N2QyN2QzYjI2YjY3MzI2MzY1YjYyNmYyYzY4NmQ1YjY3MzI2MzY1YjY2ZTZlZTZlZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT0xezQGNjL9z02x5g/giphy.gif" width="60px" alt="AI/SEO Icon" style="vertical-align:middle; margin-right: 10px;">
-  <b>AI & SEO Optimization:</b> I use intelligent systems and make sure websites rank well on search engines to get more visitors and better results.
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/dJbT8V2GgX3l70vW2o/giphy.gif" width="60px" alt="Problem Solving Icon" style="vertical-align:middle; margin-right: 10px;">
-  <b>Strong Problem-Solving:</b> I'm great at finding and fixing issues, making sure projects run smoothly and efficiently.
-</p>
+  <img src="https://media.giphy.com/media/LmN8Xc9R813XwN3q9L/giphy.gif" width="60px" alt="Skills Icon" /> </p>
+
+* **Modern Web Development:** I build dynamic, responsive, and high-performance websites using popular tools like **ReactJS** and **NextJS**.
+* **Intuitive UI/UX Design:** I create beautiful and easy-to-use interfaces that make digital products a pleasure to use.
+* **Agentic AI & SEO Optimization:** I use intelligent systems and make sure websites rank well on search engines to get more visitors and better results.
+* **Strong Problem-Solving:** I'm great at finding and fixing issues, ensuring projects run smoothly and efficiently from start to finish.
 
 ---
 
@@ -127,7 +118,8 @@ See my contributions and stats:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xezQGNjL9z02x5g/giphy.gif" width="60px" alt="Rocket Launch" /> *Honored to Contribute to the Modern Python Colab Notebook!* 🖤
+  <img src="https://media.giphy.com/media/xT0xezQGNjL9z02x5g/giphy.gif" width="60px" alt="Rocket Launch" />
+  *Honored to Contribute to the Modern Python Colab Notebook!* 🖤
 </p>
 
 > 🚀 *Always learning, always building — let’s innovate together!*
