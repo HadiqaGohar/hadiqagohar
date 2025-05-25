@@ -1,4 +1,4 @@
-![WAVE](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
+
 
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#f06292;"><b>Hadiqa Gohar</b></span></h1>
