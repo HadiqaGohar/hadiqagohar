@@ -5,9 +5,6 @@
   <h3 align="center">
     Student Leader | Web Developer | Agentic AI Developer | UI/UX Specialist | SEO Expert 🌐
   </h3>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=F7729D&center=true&vCenter=true&width=490&lines=Building+Awesome+Websites;Designing+Great+User+Experiences;Developing+Smart+AI;Boosting+Online+Visibility;Always+Learning+New+Tech!" alt="Skills Typing Effect">
-  </p>
 </div>
 
 ---
@@ -42,6 +39,7 @@ My focus is always on solving real-world challenges with technology. I make sure
 * 💡 **Strong Problem-Solving:** I'm great at finding and fixing issues, ensuring projects run smoothly and efficiently from start to finish.
 
 ---
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150px" alt="Creative Coding GIF" />
 
 ### My Digital Toolkit 🛠️
 
