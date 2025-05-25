@@ -10,6 +10,8 @@
   </p>
 </div>
 
+---
+
 ### About Me 🚀
 
 "**I help businesses build fast, modern, and scalable websites that don't just look great — they drive real results.**"
@@ -19,7 +21,6 @@ I'm Hadiqa Gohar, a dedicated **Student Leader** at the Governor Sindh Initiativ
 My focus is always on solving real-world challenges with technology. I make sure every website and app I build has a **pixel-perfect design** and a **smooth user experience**, working great on all devices.
 
 ---
-
 
 ### My Key Skills & What I Offer ✨
 
@@ -45,11 +46,15 @@ Here are the technologies I work with to bring ideas to life:
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 </p>
 
-
 ---
+
+### My Profile Insights & Strengths 📈
+
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" hight="400px" alt="Cool Animation" />
+  <img src="https://img.shields.io/badge/Profile%20Strength-High-green?style=for-the-badge" alt="Profile Strength High" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-Excellent-blue?style=for-the-badge" alt="Excellent Problem Solver" />
 </p>
+
 ---
 
 ### Featured Projects 📌
@@ -119,8 +124,22 @@ See my contributions and stats:
 ---
 
 <p align="center">
- 
+  <img src="https://media.giphy.com/media/xT0xezQGNjL9z02x5g/giphy.gif" width="60px" alt="Rocket Launch" />
   *Honored to Contribute to the Modern Python Colab Notebook!* 🖤
 </p>
 
 > 🚀 *Always learning, always building — let’s innovate together!*
+
+---
+
+### Important Notes & Your Next Steps:
+
+1.  **"My Profile Insights & Strengths" Section:** This is the new section I added.
+    * **Crucial:** The placeholder comments (``) are where you'll paste the image URLs for your "Overall Rating" or percentile badges **if you get them from an external service like GitRoll**.
+    * I've put two generic badges there as placeholders (`Profile Strength - High`, `Problem Solver - Excellent`) so it doesn't look empty initially. You can keep them, or replace them with your actual dynamic badges.
+2.  **Removed Large GIF:** I have removed the `<p align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" hight="400px" alt="Cool Animation" /> </p>` that you mentioned looked bad.
+3.  **Confirm GIFs:** Remember to replace all other placeholder GIF URLs (`https://media.giphy.com/media/...`) with the direct links to the GIFs you choose.
+4.  **Verify All Links:** Double-check all your personal links (portfolio, projects, email, social media, NPM).
+5.  **Implement:** Copy this entire Markdown code and paste it into your `README.md` file in your GitHub profile repository.
+
+This README now incorporates your desired structure, a clean "Key Skills" section, and a dedicated area for the custom rating badges once you acquire them!
