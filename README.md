@@ -20,7 +20,6 @@ My focus is always on solving real-world challenges with technology. I make sure
 
 ---
 
----
 
 ### My Key Skills & What I Offer ✨
 
