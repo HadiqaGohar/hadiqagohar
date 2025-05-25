@@ -47,6 +47,10 @@ Here are the technologies I work with to bring ideas to life:
 
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" hight="400px" alt="Cool Animation" />
+</p>
+---
 
 ### Featured Projects 📌
 
