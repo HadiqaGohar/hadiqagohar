@@ -11,6 +11,16 @@
 </div>
 
 ---
+### My Awesome Section
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100px" alt="Cool Animation" />
+</p>
+
+This is some text explaining my awesome section.
+---
+
+---
 
 ### About Me 🚀
 
