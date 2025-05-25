@@ -94,10 +94,7 @@ I'm always excited to work on new and exciting projects. If you're looking for a
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/2Xw7n1vN4sH4q1M6xM/giphy.gif" width="120px" alt="Agentic AI Network" />
-</p>
----
+
 ### My GitHub Activity 📊
 
 See my contributions and stats:
