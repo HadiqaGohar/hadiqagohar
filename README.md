@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Hadiqa Gohar!
+A passionate Frontend Developer from Pakistan 🇵🇰
 
-<!--
-**HadiqaGohar/hadiqagohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- HTML, CSS, JavaScript, TypeScript
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
 
-Here are some ideas to get you started:
+## 💼 Projects
+- [Portfolio Website](https://hg-superb-portfolio.vercel.app/)
+- [E-commerce Store](https://figma-design-hackathon.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: tasleemhadiqa76@gmail.com
+- LinkedIn: [YourLinkedIn](https://pk.linkedin.com/in/hadiqa-gohar-b64778300)
+- GitHub: [hadiqagohar](https://github.com/hadiqagohar)
