@@ -14,7 +14,7 @@
 
 "**I help businesses build fast, modern, and scalable websites that don't just look great — they drive real results.**"
 
-I'm Hadiqa Gohar, a dedicated **Student Leader** at the Governor Sindh Initiative (GIAIC). I'm deeply involved in **Cloud Applied Generative AI, Web 3.0, and Metaverses**. With over **1 year of hands-on experience** in web development, I'm passionate about creating impactful digital solutions that innovate and make users happy.
+I'm Hadiqa Gohar, a dedicated **Student Leader** at the Governor Sindh Initiative (GIAIC). I'm deeply involved in **Cloud Applied Generative AI**. With over **1 year of hands-on experience** in web development, I'm passionate about creating impactful digital solutions that innovate and make users happy.
 
 My focus is always on solving real-world challenges with technology. I make sure every website and app I build has a **pixel-perfect design** and a **smooth user experience**, working great on all devices.
 
