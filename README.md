@@ -117,7 +117,7 @@ See my contributions and stats:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xezQGNjL9z02x5g/giphy.gif" width="60px" alt="Rocket Launch" />
+ 
   *Honored to Contribute to the Modern Python Colab Notebook!* 🖤
 </p>
 
