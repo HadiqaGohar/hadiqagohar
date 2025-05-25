@@ -54,11 +54,25 @@ Sanity CMS | Python | Streamlit | ShadCN UI | Clerk Auth | Stripe | Kinde Auth |
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Connect With Me
 
-- 📧 Email: [tasleemhadiqa76@gmail.com](mailto:tasleemhadiqa76@gmail.com)
-- 🔗 LinkedIn: [hadiqa-gohar](https://pk.linkedin.com/in/hadiqa-gohar-b64778300)
-- 🐙 GitHub: [hadiqagohar](https://github.com/hadiqagohar)
+<p align="left">
+  <a href="mailto:tasleemhadiqa76@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hadiqagohar" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://pk.linkedin.com/in/hadiqa-gohar-b64778300" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/your_username/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/your_username/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
