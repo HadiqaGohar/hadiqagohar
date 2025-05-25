@@ -138,22 +138,6 @@ Showcasing my consistent engagement and contributions:
 > 🚀 *Always learning, always building — let’s innovate together!*
 
 ---
-
-### Important: Your Action Items for the "Perfect" Result:
-
-1.  **Replace ALL GIF URLs:**
-    * `https://media.giphy.com/media/hvRJCLFzCasrR4ia7X/giphy.gif` (Hello Wave)
-    * `https://media.giphy.com/media/LmN8Xc9R813XwN3q9L/giphy.gif` (Web Dev Icon)
-    * `https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QxNzFjMWYxZDU0MDIyM2Q4MzY2YmRkZjg2YmQ5ZDI5ZGUxZTUwNzQzODQ1OGYxNzY1NDZkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7btLqXjE5iN6F5qg/giphy.gif` (UI/UX Icon)
-    * `https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ4YjYyMjA2ZjI2N2QyN2QzYjI2YjY3MzI2MzY1YjYyNmYyYzY4NmQ1YjY3MzI2MzY1YjY2ZTZlZTZlZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT0xezQGNjL9z02x5g/giphy.gif` (AI/SEO Icon)
-    * `https://media.giphy.com/media/xT0xezQGNjL9z02x5g/giphy.gif` (Final Rocket Launch)
-
-    **Find professional, subtle, and relevant GIFs for each of these placeholders.** Upload them to a service like Giphy or Imgur to get direct `.gif` links, and then paste those links into the markdown. This is crucial for the animation to work.
-
-2.  **Verify All Your Personal Links:** Double-check every single URL (portfolio, projects, email, LinkedIn, GitHub, Instagram, Facebook, NPM) to ensure they are 100% accurate and lead to your correct profiles/pages.
-
-3.  **Update Your GitHub Profile README:** Copy this entire block of Markdown code and paste it into your `README.md` file in your GitHub profile repository (the one named `hadiqagohar/hadiqagohar`).
-
-This README is designed to be a strong, dynamic, and professional representation of Hadiqa Gohar's skills and aspirations. I've focused on clarity, impact, and a clean, engaging layout.
+trong, dynamic, and professional representation of Hadiqa Gohar's skills and aspirations. I've focused on clarity, impact, and a clean, engaging layout.
 
 Let me know if this hits the mark!
