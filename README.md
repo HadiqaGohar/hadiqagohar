@@ -29,9 +29,6 @@ My focus is always on solving real-world challenges with technology. I make sure
 * 💡 **Strong Problem-Solving:** I'm great at finding and fixing issues, ensuring projects run smoothly and efficiently from start to finish.
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" hight="400px" alt="Cool Animation" />
-</p>
 
 ### My Digital Toolkit 🛠️
 
@@ -46,6 +43,9 @@ Here are the technologies I work with to bring ideas to life:
   <img src="https://img.shields.io/badge/Kinde%20Auth-FF582A?style=for-the-badge&logo=kinde&logoColor=white" alt="Kinde Auth" />
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" hight="400px" alt="Cool Animation" />
 </p>
 
 ---
