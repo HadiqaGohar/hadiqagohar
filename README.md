@@ -22,15 +22,14 @@ My focus is always on solving real-world challenges with technology. I make sure
 
 ---
 
+---
+
 ### My Key Skills & What I Offer ✨
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmN8Xc9R813XwN3q9L/giphy.gif" width="60px" alt="Skills Icon" /> </p>
-
-* **Modern Web Development:** I build dynamic, responsive, and high-performance websites using popular tools like **ReactJS** and **NextJS**.
-* **Intuitive UI/UX Design:** I create beautiful and easy-to-use interfaces that make digital products a pleasure to use.
-* **Agentic AI & SEO Optimization:** I use intelligent systems and make sure websites rank well on search engines to get more visitors and better results.
-* **Strong Problem-Solving:** I'm great at finding and fixing issues, ensuring projects run smoothly and efficiently from start to finish.
+* 💻 **Modern Web Development:** I build dynamic, responsive, and high-performance websites using popular tools like **ReactJS** and **NextJS**.
+* 🎨 **Intuitive UI/UX Design:** I create beautiful and easy-to-use interfaces that make digital products a pleasure to use.
+* 🧠 **Agentic AI & SEO Optimization:** I leverage intelligent systems and make sure websites rank well on search engines to get more visitors and better results.
+* 💡 **Strong Problem-Solving:** I'm great at finding and fixing issues, ensuring projects run smoothly and efficiently from start to finish.
 
 ---
 
