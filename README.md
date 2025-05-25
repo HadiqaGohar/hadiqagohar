@@ -6,14 +6,6 @@
     Student Leader | Web Developer | Agentic AI Developer | UI/UX Specialist | SEO Expert 🌐
   </h3>
 </div>
-
----
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200px" hight="200px" alt="Cool Animation" />
-</p>
-
 ---
 
 ### About Me 🚀
