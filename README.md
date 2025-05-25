@@ -9,10 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=F7729D&center=true&vCenter=true&width=490&lines=Building+Awesome+Websites;Designing+Great+User+Experiences;Developing+Smart+AI;Boosting+Online+Visibility;Always+Learning+New+Tech!" alt="Skills Typing Effect">
   </p>
 </div>
-<p align="center">
-  <img src="https://media.giphy.com/media/your-rocket-gif-id/giphy.gif" width="60px" alt="Rocket Launch" />
-  *Honored to Contribute to the Modern Python Colab Notebook!* 🖤
-</p>
+
 ---
 
 ### About Me 🚀
